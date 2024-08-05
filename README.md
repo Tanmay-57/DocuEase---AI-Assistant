@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/825cf511-63bb-4a4e-9bbd-da7c2f4d7f6c)# DocuEase : AI-Assistant
+# DocuEase : AI-Assistant
 DocuEase- AI Assistant
 
 Link : https://docuease.streamlit.app/
