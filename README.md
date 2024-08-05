@@ -1,5 +1,5 @@
 # DocuEase : AI-Assistant
-DocuEase- AI Assistant
+
 
 Link : https://docuease.streamlit.app/
 
